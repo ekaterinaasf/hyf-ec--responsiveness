@@ -1,0 +1,34 @@
+body {
+    background-color: yellow;
+}
+
+.footer{
+    background-color: green;
+}
+
+.info {
+    width: 25%;
+    background-color: red;
+}
+
+.another {
+    display: flex;
+}
+
+.another .left {
+    flex-grow: 1;
+    background-color: olive;
+}
+
+.another .right {
+    width: 250px;
+    background-color: blue;
+}
+
+@media only screen and 
+
+.aside {
+    position: absolute;
+    top:0;
+    left: -200px;
+}
